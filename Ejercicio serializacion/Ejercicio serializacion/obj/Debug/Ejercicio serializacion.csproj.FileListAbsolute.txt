@@ -1,0 +1,7 @@
+C:\Users\juani\Desktop\POO\Clases\Ejercicio serializacion\ejercicio-serializacion-juanignacioronca\Ejercicio serializacion\Ejercicio serializacion\bin\Debug\Ejercicio serializacion.exe.config
+C:\Users\juani\Desktop\POO\Clases\Ejercicio serializacion\ejercicio-serializacion-juanignacioronca\Ejercicio serializacion\Ejercicio serializacion\bin\Debug\Ejercicio serializacion.exe
+C:\Users\juani\Desktop\POO\Clases\Ejercicio serializacion\ejercicio-serializacion-juanignacioronca\Ejercicio serializacion\Ejercicio serializacion\bin\Debug\Ejercicio serializacion.pdb
+C:\Users\juani\Desktop\POO\Clases\Ejercicio serializacion\ejercicio-serializacion-juanignacioronca\Ejercicio serializacion\Ejercicio serializacion\obj\Debug\Ejercicio serializacion.csprojAssemblyReference.cache
+C:\Users\juani\Desktop\POO\Clases\Ejercicio serializacion\ejercicio-serializacion-juanignacioronca\Ejercicio serializacion\Ejercicio serializacion\obj\Debug\Ejercicio serializacion.csproj.CoreCompileInputs.cache
+C:\Users\juani\Desktop\POO\Clases\Ejercicio serializacion\ejercicio-serializacion-juanignacioronca\Ejercicio serializacion\Ejercicio serializacion\obj\Debug\Ejercicio serializacion.exe
+C:\Users\juani\Desktop\POO\Clases\Ejercicio serializacion\ejercicio-serializacion-juanignacioronca\Ejercicio serializacion\Ejercicio serializacion\obj\Debug\Ejercicio serializacion.pdb
